@@ -1,5 +1,6 @@
 # ai-calculator
-The World's First AI Calculator.
+The World's First AI Calculator. Ask not whether it is a calculator that simply uses ai, but better yet how it calculates the measure of ai.
+It is a calculator to be used for ai, by ai, not simply using the mechanism of ai.
 
 ![Image0](https://github.com/hrishimukherjee25/ai-calculator/blob/main/AI-Calculator.jpg)
 
