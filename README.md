@@ -1,3 +1,3 @@
 # ai-calculator
 The World's First AI Calculator.
-![Alt text](Screenshot 2024-01-19 160736.png)
+![Image1](https://raw.githubusercontent.com/hrishimukherjee25/ai-calculator/master/Screenshot%2024-01-19%160736.jpg)
